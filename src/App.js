@@ -1,8 +1,6 @@
 import './App.css';
-import { BrowserRouter as Router, 
-  Routes, 
-  Route, 
-  Navigate,
+import {Routes, 
+  Route
  } from 'react-router-dom';
 import Students from './Components/Students';
 import TestPage from './Components/TestPage';
